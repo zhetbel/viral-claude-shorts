@@ -1,6 +1,6 @@
 # viral-claude-shorts
 
-This repo turns the audio of a script (a narration: recorded or generated) into an animated 9:16 short, synced to what it says. The user may be a beginner: explain each step in one plain line, in the user's language, with no jargon.
+This repo turns the audio of a script (a narration: recorded or generated) into an animated 16:9 video, synced to what it says. The user may be a beginner: explain each step in one plain line, in the user's language, with no jargon.
 
 ## When the user gives you an audio
 
